@@ -8,7 +8,7 @@ import { work } from "@cv"
   <ul>
     {
       work.map(
-        ({ name, startDate, endDate, position, summary, highlights }) => {
+        ({ name, startDate, endDate, position, summary }) => {
           const startYear = new Date(startDate).getFullYear()
           const startMonth = new Date(startDate).toLocaleString('es-ES', { month: "short" });
           const endMonth = new Date(endDate).toLocaleString('es-ES', { month: "short" });
