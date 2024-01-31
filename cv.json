@@ -1,0 +1,160 @@
+{
+  "basics": {
+    "name": "Diego Reynoso",
+    "label": "Front-end Developer con más de 2 años de experiencia",
+    "image": "https://avatars.githubusercontent.com/u/57383340?s=400&u=06ef98fadc2fc9933fc3f02a9653c29e54ef18c0&v=4",
+    "linkGeoLoc": "https://www.google.com/maps/place/Florentino+Ameghino,+Provincia+de+Buenos+Aires/@-34.8494344,-62.484405,14z/data=!3m1!4b1!4m6!3m5!1s0x95c6f2d4a94df033:0x1855d108a561981a!8m2!3d-34.8452168!4d-62.4664275!16s%2Fm%2F03m4hnc?entry=ttu",
+    "email": "diegoreynoso.dev@gmail.com",
+    "phone": "+54 3388525546",
+    "url": "https://midu.dev",
+    "summary": "+2 años de experiencia como Desarrollador Web. Soy autodidacta y tengo pasión por aprender y experimentar con nuevas tecnologías. Tengo buen ojo para los detalles y mentalidad para la resolución de problemas. He completado varios proyectos personales que han fortalecido mis habilidades técnicas. Estoy seguro de que puedo adaptarme rápidamente y contribuir significavamente a cualquier equipo de desarrollo.",
+    "location": {
+      "address": "",
+      "postalCode": "6064",
+      "city": "F. Ameghino, BSAS",
+      "countryCode": "ES",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "midudev",
+        "url": "https://linkedin.com/in/diego-reynoso-234298216"
+      },
+      {
+        "network": "X",
+        "username": "midudev",
+        "url": "https://x.com/midudev"
+      },
+      {
+        "network": "GitHub",
+        "username": "midudev",
+        "url": "https://github.com/midudev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "HTML | CSS | JAVASCRIPT | PYTHON",
+      "position": "SoyDalto",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-09-01",
+      "summary": "Curso de soyDalto en el cual enseña en 3 secciones cada idioma del nivel basico al nivel avanzado.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "HTML | CSS | JAVASCRIPT | SCRUM | DATABASE",
+      "position": "Streambee",
+      "url": "",
+      "startDate": "2023-07-01",
+      "endDate": "2023-09-01",
+      "summary": "Curso en el que enseñaban brevemente cada lenguage, metodoligas agiles y bases de datos.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "CURSO REACTJS-NEXTJS",
+      "position": "Udemy",
+      "startDate": "2023-08-01",
+      "endDate": "2023-09-01",
+      "summary": "Curso muy completo sobre lo mas importante de ReactJS y nextJS, tambien mezclado con varias tecnologias importantes y relevantes.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitat Oberta de Catalunya",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Ingeniero de Software",
+      "studyType": "Bachelor",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    "CSS",
+    "Tailwind",
+    "Material UI",
+    "Framer Moon",
+    "ShadCN",
+    "HTML",
+    "Astro",
+    "JavaScript",
+    "TypeScript",
+    "ReactJS",
+    "Nextjs",
+    "Sqlite",
+    "MongoDB",
+    "Firebase",
+    "Firestore",
+    "Strapi",
+    "Railway",
+    "Zod",
+    "Formik",
+    "React-hook-form",
+    "Vite",
+    "Clerk",
+    "Yup"
+  ],
+
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ]
+}
