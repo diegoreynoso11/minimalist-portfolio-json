@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Diego Reynoso",
-    "label": "Front-end Developer con más de 2 años de experiencia",
+    "label": "Front-end Developer with over 2 years of experience.",
     "image": "https://avatars.githubusercontent.com/u/57383340?s=400&u=06ef98fadc2fc9933fc3f02a9653c29e54ef18c0&v=4",
     "linkGeoLoc": "https://www.google.com/maps/place/Florentino+Ameghino,+Provincia+de+Buenos+Aires/@-34.8494344,-62.484405,14z/data=!3m1!4b1!4m6!3m5!1s0x95c6f2d4a94df033:0x1855d108a561981a!8m2!3d-34.8452168!4d-62.4664275!16s%2Fm%2F03m4hnc?entry=ttu",
     "email": "diegoreynoso.dev@gmail.com",
     "phone": "+54 3388525546",
     "url": "https://midu.dev",
-    "summary": "+2 años de experiencia como Desarrollador Web. Soy autodidacta y tengo pasión por aprender y experimentar con nuevas tecnologías. Tengo buen ojo para los detalles y mentalidad para la resolución de problemas. He completado varios proyectos personales que han fortalecido mis habilidades técnicas. Estoy seguro de que puedo adaptarme rápidamente y contribuir significavamente a cualquier equipo de desarrollo.",
+    "summary": "2 years of experience as a Web Developer. I am self-taught and have a passion for learning and experimenting with new technologies. I have a good eye for details and a problem-solving mindset. I have completed several personal projects that have strengthened my technical skills. I am confident that I can quickly adapt and make a significant contribution to any development team.",
     "location": {
       "address": "",
       "postalCode": "6064",
@@ -40,7 +40,7 @@
       "url": "",
       "startDate": "2023-06-01",
       "endDate": "2023-09-01",
-      "summary": "Curso de soyDalto en el cual enseña en 3 secciones cada idioma del nivel basico al nivel avanzado.",
+      "summary": "SoyDalto’s course in which he teaches each language in 3 sections from the basic level to the advanced level.",
       "highlights": ["Started the company"]
     },
     {
@@ -49,15 +49,15 @@
       "url": "",
       "startDate": "2023-07-01",
       "endDate": "2023-09-01",
-      "summary": "Curso en el que enseñaban brevemente cada lenguage, metodoligas agiles y bases de datos.",
+      "summary": "Course in which they briefly taught each language, agile methodologies, and databases.",
       "highlights": ["Started the company"]
     },
     {
-      "name": "CURSO REACTJS-NEXTJS",
+      "name": "COURSE REACTJS-NEXTJS",
       "position": "Udemy",
       "startDate": "2023-08-01",
       "endDate": "2023-09-01",
-      "summary": "Curso muy completo sobre lo mas importante de ReactJS y nextJS, tambien mezclado con varias tecnologias importantes y relevantes.",
+      "summary": "A very comprehensive course on the most important aspects of ReactJS and nextJS, also mixed with several important and relevant technologies.",
       "highlights": ["Started the company"]
     }
   ],
@@ -134,7 +134,11 @@
     "Clerk",
     "Yup"
   ],
-
+  "titlesSections" : {
+    "Skills" : "Skills",
+    "Experiencie" : "Learning",
+    "AboutMe" : "About me"
+  },
   "languages": [
     {
       "language": "Spanish",

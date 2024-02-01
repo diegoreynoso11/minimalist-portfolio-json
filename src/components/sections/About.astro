@@ -1,11 +1,11 @@
 ---
 import Section from "../Section.astro"
 
-import { basics } from "@cv"
+import { basics, titlesSections } from "@cv"
 const { summary } = basics
 ---
 
-<Section title="Sobre mí">
+<Section title={titlesSections.AboutMe}>
   <p>
     {summary}
   </p>

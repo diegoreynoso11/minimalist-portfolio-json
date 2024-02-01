@@ -1,17 +1,17 @@
 ---
 import Section from "../Section.astro"
 
-import { work } from "@cv"
+import { work, titlesSections } from "@cv"
 ---
 
-<Section title="Aprendizaje">
+<Section title={titlesSections.Experiencie}>
   <ul>
     {
       work.map(
         ({ name, startDate, endDate, position, summary }) => {
           const startYear = new Date(startDate).getFullYear()
-          const startMonth = new Date(startDate).toLocaleString('es-ES', { month: "short" });
-          const endMonth = new Date(endDate).toLocaleString('es-ES', { month: "short" });
+          const startMonth = new Date(startDate).toLocaleString('en-EN', { month: "short" });
+          const endMonth = new Date(endDate).toLocaleString('en-EN', { month: "short" });
           const endYear =
             endDate != null ? new Date(endDate).getFullYear() : "Actual"
           const years = `${startMonth} ${startYear} - ${endMonth} ${endYear}`
