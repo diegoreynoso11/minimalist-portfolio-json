@@ -14,7 +14,12 @@ import { work,titlesSections } from "cvEs.json"
           const endMonth = new Date(endDate).toLocaleString('en-EN', { month: "short" });
           const endYear =
             endDate != null ? new Date(endDate).getFullYear() : "Actual"
-          const years = `${startMonth} ${startYear} - ${endMonth} ${endYear}`
+          if (!endYear) {
+            var realEndDate = "Actual"
+          } else {
+            var realEndDate = `${endMonth} ${endYear}`
+          }
+          const years = `${startMonth} ${startYear} - ${realEndDate}`
 
           return (
             <li>

@@ -1,13 +1,13 @@
 {
     "basics": {
       "name": "Diego Reynoso",
-    "label": "Desarrollador Front-end con más de 2 años de experiencia.",
+    "label": "Desarrollador Front-end con más de 3 años de experiencia.",
       "image": "https://avatars.githubusercontent.com/u/57383340?s=400&u=06ef98fadc2fc9933fc3f02a9653c29e54ef18c0&v=4",
       "linkGeoLoc": "https://www.google.com/maps/place/Florentino+Ameghino,+Provincia+de+Buenos+Aires/@-34.8494344,-62.484405,14z/data=!3m1!4b1!4m6!3m5!1s0x95c6f2d4a94df033:0x1855d108a561981a!8m2!3d-34.8452168!4d-62.4664275!16s%2Fm%2F03m4hnc?entry=ttu",
       "email": "diegoreynoso.dev@gmail.com",
       "phone": "+54 3388525546",
-      "url": "https://midu.dev",
-    "summary": "+2 años de experiencia como Desarrollador Web. Soy autodidacta y tengo pasión por aprender y experimentar con nuevas tecnologías. Tengo buen ojo para los detalles y una mentalidad orientada a la resolución de problemas. He completado varios proyectos personales que han fortalecido mis habilidades técnicas. Estoy seguro de que puedo adaptarme rápidamente y hacer una contribución significativa a cualquier equipo de desarrollo.",
+      "url": "https://portfolio-diegoreynoso11.vercel.app/",
+    "summary": "+3 años de experiencia como Desarrollador Web. Soy autodidacta y tengo pasión por aprender y experimentar con nuevas tecnologías. Tengo buen ojo para los detalles y una mentalidad orientada a la resolución de problemas. He completado varios proyectos personales que han fortalecido mis habilidades técnicas. Estoy seguro de que puedo adaptarme rápidamente y hacer una contribución significativa a cualquier equipo de desarrollo.",
       "location": {
         "address": "",
         "postalCode": "6064",
@@ -58,6 +58,15 @@
         "startDate": "2023-08-01",
         "endDate": "2023-09-01",
         "summary": "Un curso muy completo sobre los aspectos más importantes de ReactJS y NextJS, también mezclado con varias tecnologías importantes y relevantes.",
+        "highlights": ["Started the company"]
+      },
+      {
+        "name": "DEMÁS TECNOLOGÍAS",
+        "position": "Autodidacta",
+        "url": "",
+        "startDate": "2023-06-01",
+        "endDate": "",
+        "summary": "Las demás tecnologías las aprendí de forma autodidacta, ya sea en cursos realizados en YouTube o en la misma documentación de la tecnología. Cada tecnología que aprendí fue utilizada en un proyecto personal.",
         "highlights": ["Started the company"]
       }
     ],
@@ -127,6 +136,8 @@
       "Firestore",
       "Strapi",
       "Railway",
+      "Express",
+      "NodeJS",
       "Zod",
       "Formik",
       "React-hook-form",
